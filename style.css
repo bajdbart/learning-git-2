@@ -22,3 +22,12 @@ p {
 	color: #000;
 	font-size: 12px;
 }
+
+body:last-child::after {
+	content: "Koniec ";
+	border-top: 1px dashed black;
+	display: block;
+	width: 150px;
+	margin: auto;
+	padding-top: 10px;
+}
