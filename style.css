@@ -3,6 +3,8 @@ body {
 	text-align: center;
 	width: 1200px;
 	margin: 0 auto;
+	padding-top: 60px;
+	font-family: 'Lato', sans-serif;
 }
 
 h1 {
@@ -13,6 +15,7 @@ h1 {
 h2 {
 	font-size: 16px;
 	color: #2ecc71;
+	margin-bottom: 40px;
 }
 
 p {
